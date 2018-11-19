@@ -1,6 +1,6 @@
 # DIAGRAME, SCHEME SI SINONIME
 
-##1. Creati o diagrama a bazei de date, folosind forma de vizualizare standard, structura careia este descrisa la inceputul sarcinilor practice din capitolul 4.
+## 1. Creati o diagrama a bazei de date, folosind forma de vizualizare standard, structura careia este descrisa la inceputul sarcinilor practice din capitolul 4.
 ![1](https://user-images.githubusercontent.com/43139007/48711588-4c652c00-ec14-11e8-9e0e-93edde5b61f6.jpg)
 
 ## 2. Sa se adauge constrangeri referentiale (legate cu tabelele studenti si profesori) necesare coloanelor Sef_grupa si Prof_Indrumator (sarcina3, capitolul 6) din tabelul grupe.
