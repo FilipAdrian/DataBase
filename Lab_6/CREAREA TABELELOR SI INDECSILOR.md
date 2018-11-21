@@ -95,9 +95,7 @@ SET Adresa_2 = case when PATINDEX('%, [0-9]%',Adresa_2)>0
 				end
 				
 select * from profesori_new
-```
-
-![interogarea 5](Image5.PNG)
+![image](https://user-images.githubusercontent.com/43296954/48833572-560da180-ed84-11e8-88a4-82a3285cb5c5.png)
 
 # Task 6
 Să se insereze datele in tabelul orarul pentru Grupa= 'CIBJ 71' (Id_ Grupa= 1) pentru ziua de luni. Toate lectiile vor avea loc în blocul de studii 'B'. Mai jos, sunt prezentate detaliile de inserare:
@@ -129,8 +127,7 @@ Insert orarul (Id_Disciplina , Id_Profesor, Zi, Ora, Auditoriu)
 
 select * from orarul
 
-
-![interogarea 6](Image6.PNG)
+![image](https://user-images.githubusercontent.com/43296954/48833636-763d6080-ed84-11e8-82ae-954b1f62ef78.png)
 
 #Task 7
 
@@ -170,7 +167,7 @@ values (
 		select * from orarul
 ```
 
-![interogarea 7](Image7.PNG)
+![image](https://user-images.githubusercontent.com/43296954/48833665-8c4b2100-ed84-11e8-9acf-5b010a55e38e.png)
 
 #Task 8
 
@@ -195,8 +192,8 @@ where grupe.Id_Grupa = studenti_reusita_test.Id_Grupa
 ```
 BEFORE
 
-![interogarea 8_1](Image8_1.PNG)
+![image](https://user-images.githubusercontent.com/43296954/48833695-9f5df100-ed84-11e8-9dbc-e3deab57a021.png)
 
 AFTER
 
-![interogarea 8_2](Image8_2.PNG)
+![image](https://user-images.githubusercontent.com/43296954/48833716-ad137680-ed84-11e8-9299-af2354d381be.png)
