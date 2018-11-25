@@ -33,6 +33,5 @@ Modificati 2-3 interogari asupra bazei de date universitatea prezentate in capit
 
 # Task 8
 Creati sinonimele respective pentru a simplifica interogarile construite in exercitiul precedent si reformulati interogarile, folosind sinonimele create.
-![8 1](https://user-images.githubusercontent.com/43139007/48711583-4bcc9580-ec14-11e8-8d84-7f7799caae05.jpg)
-![8 2](https://user-images.githubusercontent.com/43139007/48711584-4bcc9580-ec14-11e8-8789-ad285ca0ae86.jpg)
-![8 3](https://user-images.githubusercontent.com/43139007/48711585-4c652c00-ec14-11e8-968f-6a10d346c7ce.jpg)
+![image](https://user-images.githubusercontent.com/43296954/48979928-ad847800-f0ca-11e8-966d-296aaa53377b.png)
+![image](https://user-images.githubusercontent.com/43296954/48979976-81b5c200-f0cb-11e8-9e2d-a29089483f39.png)
