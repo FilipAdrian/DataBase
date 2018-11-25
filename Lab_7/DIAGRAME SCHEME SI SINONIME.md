@@ -28,10 +28,14 @@ In diagrama, de asemenea, trebuie sa se defineasca constrangerile referentiale (
 
 # Task 7
 Modificati 2-3 interogari asupra bazei de date universitatea prezentate in capitolul 4 astfel ca numele tabelelor accesate sa fie descrise in mod explicit, tinand cont de faptul ca tabelele au fost mutate in scheme noi.
+
 ![image](https://user-images.githubusercontent.com/43296954/48979501-67c4b100-f0c4-11e8-8b4c-520a5669b84f.png)
+
 ![image](https://user-images.githubusercontent.com/43296954/48979502-875bd980-f0c4-11e8-85f4-10d9a9e16235.png)
 
 # Task 8
 Creati sinonimele respective pentru a simplifica interogarile construite in exercitiul precedent si reformulati interogarile, folosind sinonimele create.
+
 ![image](https://user-images.githubusercontent.com/43296954/48979928-ad847800-f0ca-11e8-966d-296aaa53377b.png)
+
 ![image](https://user-images.githubusercontent.com/43296954/48979976-81b5c200-f0cb-11e8-9e2d-a29089483f39.png)
