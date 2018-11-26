@@ -18,11 +18,11 @@ b) Sa se tina cont ca cheie primarii, deja, este definitii asupra coloanei Id_ G
 
 # Task 3
 
-La tabelul grupe, sa se adauge 2 coloane noi Sef_grupa ~i Prof_Indrumator, ambele de tip
+La tabelul grupe, sa se adauge 2 coloane noi Sef_grupa si Prof_Indrumator, ambele de tip
 INT. Sii se populeze campurile nou-create cu cele mai potrivite candidaturi ill baza criteriilor
 de maijos:
-a) $eful grupei trebuie sa aiba cea mai buna reu~itii (medie) din grupa la toate formele de
-evaluare ~i la toate disciplinele. Un student nu poate fi ~ef de grupa la mai multe grupe.
+a) Seful grupei trebuie sa aiba cea mai buna reu~itii (medie) din grupa la toate formele de
+evaluare ~i la toate disciplinele. Un student nu poate fi suful de grupa la mai multe grupe.
 b) Profesorul fndrumator trebuie sa predea un numiir maximal posibil de discipline la grupa
 data. Daca nu existii o singurii candidaturii, care corespunde primei cerinte, atunci este
 ales din grupul de candidati acel cu identificatorul (Id_Profesor) minimal. Un profesor nu
