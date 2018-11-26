@@ -179,3 +179,18 @@ values (
 
 		select * from orarul
 
+--Task 8
+-- task no 10
+create nonclustered index test1
+on plan_studii.discipline(Disciplina);
+create nonclustered index test2
+on studenti.studenti_reusita(Tip_Evaluare,Data_Evaluare,Nota);
+set statistics io on
+set statistics time on
+select  p.Nume_Student,p.Prenume_Student
+from studenti as p inner join studenti.studenti_reusita as r
+on p.Id_Student = r.Id_Student 
+inner join plan_studii.discipline as k on k.Id_Disciplina=r.Id_Disciplina
+and  r.Tip_Evaluare='Examen' and k.Disciplina='Baze de date' and r.Data_Evaluare like'2018%'
+where r.Nota between 4 and 8
+set statistics time on						      
