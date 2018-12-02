@@ -25,3 +25,16 @@ In urma incercarii de a executa intructiunile INSERT, UPDATE, DELETE asupra vizi
 -> a doua viziune contine clauzele Group By, Order By si plus la asta se utilizeasa functii cum ar fi AVG care nu perminte modificare view-ului
 
 # Task 3
+Sa se scrie instructiunile SQL care ar modifica viziunile create (in exercitiul 1) in asa fel, incat sa nu fie posibila modificarea sau stergerea tabelelor pe care acestea sunt definite si viziunile sa nu accepte operatiuni DML, daca conditiile clauzei WHERE nu sunt satisfacute.
+
+![image](https://user-images.githubusercontent.com/43296954/49343266-bba83a80-f66e-11e8-9777-de4aa2a3eb1e.png)
+
+# Task 4
+Sa se scrie instructiunile de testare a proprietatilor noi definite.
+
+![image](https://user-images.githubusercontent.com/43296954/49343275-e2667100-f66e-11e8-8fad-c29feccd1823.png)
+
+# Task 5
+Sa se rescrie 2 interogari formulate in exercitiile din capitolul 4, in asa fel incat interogarile imbricate sa fie redate sub forma expresiilor CTE.
+
+
