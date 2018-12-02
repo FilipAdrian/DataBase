@@ -37,4 +37,16 @@ Sa se scrie instructiunile de testare a proprietatilor noi definite.
 # Task 5
 Sa se rescrie 2 interogari formulate in exercitiile din capitolul 4, in asa fel incat interogarile imbricate sa fie redate sub forma expresiilor CTE.
 
+![image](https://user-images.githubusercontent.com/43296954/49343466-51919480-f672-11e8-8cdc-bfcbba0ea25b.png)
+
+![image](https://user-images.githubusercontent.com/43296954/49343512-412de980-f673-11e8-9f1b-1635dcc70dcd.png)
+
+# Task 6
+Se considera un graf orientat, si fie se doreste parcursa calea de la nodul id = 3 la nodul unde id = 0. Sa se faca reprezentarea grafului orientat in forma de expresie-tabel recursiv.
+
+![lab8 6](https://user-images.githubusercontent.com/43128425/48984134-b8f29600-f100-11e8-9d5c-ca6a47ff7f15.PNG)
+
+Sa se observe instructiunea de dupa UNION ALL a membrului recursiv, precum si partea de pana la UNION ALL reprezentata de membrul-ancora.
+
+![image](https://user-images.githubusercontent.com/43296954/49343609-805d3a00-f675-11e8-8aa2-165d1ea89a5d.png)
 
