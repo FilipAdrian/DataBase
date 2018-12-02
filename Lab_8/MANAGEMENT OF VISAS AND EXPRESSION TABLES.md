@@ -19,7 +19,9 @@ Sa se adauge comentariile respective referitoare la rezultatele executarii acest
 ![image](https://user-images.githubusercontent.com/43296954/48984395-bf364180-f103-11e8-80d1-bdf0c01d175b.png)
 
 In urma incercarii de a executa intructiunile INSERT, UPDATE, DELETE asupra viziunilor create, am constatat faptul ca nu putem modifica viziunele deoarece ele nu satisfact conditiile viziunii ,cum ar fi :
+
 -> primul view contine clauza distinct
+
 -> a doua viziune contine clauzele Group By, Order By si plus la asta se utilizeasa functii cum ar fi AVG care nu perminte modificare view-ului
 
 # Task 3
