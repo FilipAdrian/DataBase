@@ -7,3 +7,5 @@ in afara de disciplina si ora, va afisa codul grupei afectate, ziua, blocul, aud
 
 ### Task 2:
 Sa se creeze declansatorul, care ar asigura popularea corecta (consecutiva) a tabelelor studenti si studenti_reusita,si ar permite evitarea erorilor la nivelul cheilor externe.
+
+![image](https://user-images.githubusercontent.com/43296954/49643028-51e8b180-fa1d-11e8-9033-3e219ecbb7b8.png)
